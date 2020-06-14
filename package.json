@@ -19,5 +19,15 @@
   "bugs": {
     "url": "https://github.com/ptahmose/archerytargetcontrolwebcomponent/issues"
   },
-  "homepage": "https://github.com/ptahmose/archerytargetcontrolwebcomponent#readme"
+  "homepage": "https://github.com/ptahmose/archerytargetcontrolwebcomponent#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "tslint": "^6.1.2",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.3.0",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.4.3"
+  }
 }
